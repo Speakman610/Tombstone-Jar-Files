@@ -1,0 +1,6 @@
+name: Tombstone
+version: 1.0
+main: me.speakman610.tombstone.Tombstone
+api-version: 1.16
+authors: [ Speakman610 ]
+description: Creates a tombstone where players die
